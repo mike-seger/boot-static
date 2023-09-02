@@ -1,3 +1,5 @@
+server.port: 8790
+
 spring:
   resources:
     static-locations: file://./src/main/resources/static
